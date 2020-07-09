@@ -3,7 +3,7 @@
     width: 150px;}
 .content{background-color:#dfffff;}
 
-.container{margin-top:50px;}
+.container{margin-top:20px;}
 .buy-now-button{
    background-color: green;
     color: #fff;
@@ -19,4 +19,35 @@ h1{font-size: 50px;
 font-weight: 700;}
 .people{margin-left: 25px;
 margin-top: 15px;}
-footer{text-align: center;}
+footer{text-align: center;
+margin-bottom: 50px;}
+.date{
+    height: 56px;
+    width: 100%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin: 0;
+}
+.date div{
+    padding: 0;
+
+}
+.date div img{
+    height: 50%;
+    width: 14%;
+}
+.date div+div{
+    padding: 0;
+    margin-right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;}
+    .jumbotron {
+        background-color: #dfffff;
+      }
+.conclusion{
+    background-color:black;
+}
+
+
