@@ -1,7 +1,6 @@
 .logo{
     height: 50px;
     width: 150px;}
-.content{background-color:#dfffff;}
 
 .container{margin-top:20px;}
 .buy-now-button{
@@ -44,10 +43,17 @@ margin-bottom: 50px;}
     align-items: center;
     justify-content: flex-end;}
     .jumbotron {
-        background-color: #dfffff;
+        background-color: #199999;
       }
 .conclusion{
     background-color:black;
 }
+.jumbotron:hover{
+    color: purple;
+
+}
+
+
+
 
 
